@@ -14,6 +14,7 @@ Overall, traffic sign detection is a critical component of autonomous driving te
 In this project we used [GTSRB dataset](https://paperswithcode.com/dataset/gtsrb).  The German Traffic Sign Recognition Benchmark (GTSRB) dataset is a widely used dataset for evaluating and benchmarking traffic sign detection and recognition algorithms. The dataset contains more than 50,000 images of traffic signs, which are divided into 43 classes based on their shape and meaning.
 
 The images were captured under various conditions, such as different weather conditions, illumination, and viewing angles. This makes the dataset more challenging and realistic, and helps in evaluating the robustness of traffic sign detection algorithms.
+![](https://github.com/uraimov92cnu/Traffic_Sign_Detection_with_CustomModel/blob/master/inference_outputs/GTSRB.jpg)
 
 The GTSRB dataset has been widely used for developing and evaluating traffic sign detection and recognition algorithms, and has led to significant improvements in the field. It is commonly used as a benchmark dataset for research papers, and many state-of-the-art algorithms have been evaluated on this dataset.
 
