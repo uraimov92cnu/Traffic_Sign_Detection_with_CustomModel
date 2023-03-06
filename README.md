@@ -19,3 +19,6 @@ The images were captured under various conditions, such as different weather con
 The GTSRB dataset has been widely used for developing and evaluating traffic sign detection and recognition algorithms, and has led to significant improvements in the field. It is commonly used as a benchmark dataset for research papers, and many state-of-the-art algorithms have been evaluated on this dataset.
 
 The dataset is freely available for download, and it can be used for both commercial and non-commercial purposes. The GTSRB dataset is a valuable resource for researchers and developers working on traffic sign detection and recognition algorithms, and it has contributed significantly to the advancement of autonomous driving technology.
+
+#### Video output from the author to infer the model
+![]()
